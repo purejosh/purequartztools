@@ -1,0 +1,45 @@
+{
+	"schemaVersion": 1,
+	"id": "purequartztools",
+	"version": "1.0.0",
+	"name": "Pure Quartz Tools",
+	"description": "A unique take on quartz armor and tools, that just may fit your vibe.",
+	"authors": [
+		"purejosh"
+	],
+	"contact": {
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/purequartztools",
+		"sources": "https://github.com/purejosh/purequartztools",
+		"issues": "https://github.com/purejosh/purequartztools/issues"
+	},
+	"license": "MIT-R-NR",
+	"icon": "assets/purequartztools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.purejosh.purequartztools.PureQuartzTools"
+		],
+		"client": [
+			"net.purejosh.purequartztools.PureQuartzToolsClient"
+		],
+		"fabric-datagen": [
+          "net.purejosh.purequartztools.PureQuartzToolsDataGen"
+		]
+	},
+	"mixins": [
+		"purequartztools.mixins.json",
+		{
+			"config": "purequartztools.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "purequartztools:block/quartz_lantern"
+    },
+    "hanging=true": {
+      "model": "purequartztools:block/quartz_lantern_hanging"
+    }
+  }
+}

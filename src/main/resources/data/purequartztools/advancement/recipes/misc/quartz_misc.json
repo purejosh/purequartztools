@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_quartz": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:quartz"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_quartz"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "purequartztools:quartz_apple",
+      "purequartztools:quartz_axe",
+      "purequartztools:quartz_boots",
+      "purequartztools:quartz_chestplate",
+      "purequartztools:quartz_dust_from_quartz_stonecutting",
+      "purequartztools:quartz_helmet",
+      "purequartztools:quartz_hoe",
+      "purequartztools:quartz_horse_armor",
+      "purequartztools:quartz_leggings",
+      "purequartztools:quartz_pickaxe",
+      "purequartztools:quartz_shovel",
+      "purequartztools:quartz_sword",
+      "purequartztools:quartz_upgrade_smithing_template",
+      "purequartztools:raw_quartz_block",
+      "purequartztools:quartz_cluster"
+    ]
+  }
+}

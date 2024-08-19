@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "purequartztools:block/raw_quartz_block"
+  }
+}

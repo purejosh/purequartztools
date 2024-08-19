@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "category": "misc",
+  "template": {
+    "item": "purequartztools:quartz_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:leather_horse_armor"
+  },
+  "addition": {
+    "item": "minecraft:quartz"
+  },
+  "result": {
+    "id": "purequartztools:quartz_horse_armor",
+    "count": 1
+  }
+}

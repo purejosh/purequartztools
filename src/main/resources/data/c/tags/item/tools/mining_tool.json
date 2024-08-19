@@ -1,0 +1,9 @@
+{
+  "values": [
+    "purequartztools:quartz_pickaxe",
+    {
+      "id": "#c:tools/mining_tools",
+      "required": false
+    }
+  ]
+}

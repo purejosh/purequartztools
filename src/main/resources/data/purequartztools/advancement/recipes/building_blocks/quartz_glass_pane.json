@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_quartz_glass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "purequartztools:quartz_glass"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_quartz_glass"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "purequartztools:quartz_glass_pane"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "purequartztools:block/quartz_cluster",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "purequartztools:block/quartz_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "purequartztools:block/quartz_cluster",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "purequartztools:block/quartz_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "purequartztools:block/quartz_cluster"
+    },
+    "facing=west": {
+      "model": "purequartztools:block/quartz_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

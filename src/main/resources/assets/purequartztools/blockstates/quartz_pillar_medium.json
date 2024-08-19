@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "purequartztools:block/quartz_pillar_medium",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "purequartztools:block/quartz_pillar_medium"
+    },
+    "axis=z": {
+      "model": "purequartztools:block/quartz_pillar_medium",
+      "x": 90
+    }
+  }
+}

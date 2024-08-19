@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "purequartztools:block/raw_quartz_block" }
+  }
+}

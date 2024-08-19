@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_lantern",
+  "textures": {
+    "lantern": "purequartztools:block/quartz_soul_lantern"
+  }
+}

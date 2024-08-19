@@ -1,0 +1,9 @@
+{
+  "values": [
+    "purequartztools:quartz_carrot",
+    {
+      "id": "#c:foods/vegetables",
+      "required": false
+    }
+  ]
+}

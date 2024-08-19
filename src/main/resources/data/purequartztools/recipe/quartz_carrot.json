@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "purequartztools:quartz_dust"
+    },
+    "X": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "result": {
+    "id": "purequartztools:quartz_carrot",
+    "count": 1
+  }
+}

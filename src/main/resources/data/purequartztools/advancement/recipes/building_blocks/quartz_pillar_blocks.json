@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_quartz_pillar": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:quartz_pillar"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_quartz_pillar"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "purequartztools:quartz_pillar_stairs",
+      "purequartztools:quartz_pillar_stairs_from_quartz_pillar_stonecutting",
+      "purequartztools:quartz_pillar_slab",
+      "purequartztools:quartz_pillar_slab_from_quartz_pillar_stonecutting",
+      "purequartztools:quartz_pillar_wall",
+      "purequartztools:quartz_pillar_wall_from_quartz_pillar_stonecutting",
+      "purequartztools:quartz_pillar_medium_from_quartz_pillar_stonecutting",
+      "purequartztools:quartz_pillar_small_from_quartz_pillar_stonecutting"
+    ]
+  }
+}

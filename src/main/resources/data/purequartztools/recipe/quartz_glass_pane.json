@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "purequartztools:quartz_glass"
+    }
+  },
+  "result": {
+    "id": "purequartztools:quartz_glass_pane",
+    "count": 16
+  }
+}

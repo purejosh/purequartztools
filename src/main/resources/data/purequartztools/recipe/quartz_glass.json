@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "ingredient": {
+    "item": "purequartztools:quartz_sand"
+  },
+  "result": {
+    "id": "purequartztools:quartz_glass"
+  },
+  "experience": 0.1,
+  "cookingtime": 100
+}

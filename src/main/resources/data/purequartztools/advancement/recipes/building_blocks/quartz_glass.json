@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_quartz_sand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "purequartztools:quartz_sand"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_quartz_sand"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "purequartztools:quartz_glass",
+      "purequartztools:quartz_dust"
+    ]
+  }
+}

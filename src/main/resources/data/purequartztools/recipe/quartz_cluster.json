@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " # ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "id": "purequartztools:quartz_cluster",
+    "count": 1
+  }
+}

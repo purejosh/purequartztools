@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:quartz_pillar"
+  },
+  "result": {
+    "id": "purequartztools:quartz_pillar_medium",
+    "count": 2
+  }
+}

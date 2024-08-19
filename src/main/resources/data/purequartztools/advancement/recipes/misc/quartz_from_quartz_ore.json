@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_quartz_ore": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "purequartztools:quartz_ore"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_quartz_ore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "purequartztools:quartz_from_smelting_quartz_ore",
+      "purequartztools:quartz_from_blasting_quartz_ore"
+    ]
+  }
+}

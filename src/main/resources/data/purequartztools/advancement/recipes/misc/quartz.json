@@ -1,0 +1,25 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_quartz_block": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "purequartztools:raw_quartz_block"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_quartz_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "purequartztools:quartz_from_raw_quartz_block"
+    ]
+  }
+}

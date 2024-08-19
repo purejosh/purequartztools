@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " X ",
+    "X#X",
+    " X "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glowstone"
+    },
+    "X": {
+      "item": "purequartztools:quartz_dust"
+    }
+  },
+  "result": {
+    "id": "purequartztools:quartz_lamp",
+    "count": 1
+  }
+}

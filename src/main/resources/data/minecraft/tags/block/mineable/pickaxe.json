@@ -1,0 +1,25 @@
+{
+  "values": [
+    "purequartztools:quartz_ore",
+    "purequartztools:deepslate_quartz_ore",
+    "purequartztools:raw_quartz_block",
+    "purequartztools:quartz_cluster",
+    "purequartztools:quartz_glass",
+    "purequartztools:quartz_glass_pane",
+    "purequartztools:quartz_lantern",
+    "purequartztools:quartz_soul_lantern",
+    "purequartztools:quartz_wall",
+    "purequartztools:chiseled_quartz_stairs",
+    "purequartztools:chiseled_quartz_slab",
+    "purequartztools:chiseled_quartz_wall",
+    "purequartztools:quartz_brick_stairs",
+    "purequartztools:quartz_brick_slab",
+    "purequartztools:quartz_brick_wall",
+    "purequartztools:quartz_pillar_stairs",
+    "purequartztools:quartz_pillar_slab",
+    "purequartztools:quartz_pillar_wall",
+    "purequartztools:smooth_quartz_wall",
+    "purequartztools:quartz_pillar_medium",
+    "purequartztools:quartz_pillar_small"
+  ]
+}

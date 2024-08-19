@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_smooth_quartz": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:smooth_quartz"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_smooth_quartz"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "purequartztools:smooth_quartz_wall",
+      "purequartztools:smooth_quartz_wall_from_smooth_quartz_stonecutting"
+    ]
+  }
+}

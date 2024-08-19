@@ -1,0 +1,9 @@
+{
+  "values": [
+    "purequartztools:quartz_wall",
+    "purequartztools:chiseled_quartz_wall",
+    "purequartztools:quartz_brick_wall",
+    "purequartztools:quartz_pillar_wall",
+    "purequartztools:smooth_quartz_wall"
+  ]
+}

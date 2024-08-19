@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:quartz"
+  },
+  "result": {
+    "id": "purequartztools:quartz_dust",
+    "count": 2
+  }
+}

@@ -12,7 +12,7 @@ Please open an issue in Github, and choose [Bug](https://github.com/purejosh/pur
 
 ## Need help? 
 
-Check out the [Wiki](https://github.com/purejosh/purequartztools/wiki/Pure-Quartz-Tools-%E2%80%94-User-Wiki). If you need more assistance, or just want to be a part of the community, please join our [Discord](https://discord.com/invite/X6AsDnqex6).
+Check out the [Wiki](https://github.com/purejosh/purequartztools/wiki). If you need more assistance, or just want to be a part of the community, please join our [Discord](https://discord.com/invite/X6AsDnqex6).
 
 ## License
 [MIT-R-NR](https://github.com/purejosh/purequartztools/blob/main/LICENSE.txt)
